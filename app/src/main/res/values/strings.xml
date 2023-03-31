@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContinuacaoDiceRoller</string>
+    <string name="App_UseButton">DiceRoller</string>
+    <string name="roll_label">Roll</string>
+
+</resources>
